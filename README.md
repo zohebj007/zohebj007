@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a Developer Advocate & Educator @TrainWithShubham specializing in Development, DevOps, and Platform Engineering from India, with 8+ years of professional experience in both onsite and remote environments. I'm passionate about building production-ready applications and scalable cloud infrastructure.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+an+AI+%26+MLOps+Engineer+%40Deloitte+USI+specializing+in+LLMOps%2C+MLOps%2C+DevOps%2C+and+Platform+Engineering+from+India%2C+with+4%2B+years+of+professional+experience+in+both+onsite+and+remote+environments.+I'm+passionate+about+building+production-ready+applications+and+scalable+cloud+infrastructure.)](https://git.io/typing-svg)
 
 - Currently working on cloud-native solutions, Artificial Intelligence solutions, and DevOps/Platform engineering
 - Always learning about emerging technologies and best practices
