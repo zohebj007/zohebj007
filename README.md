@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm an AI & MLOps Engineer @Deloitte USI specializing in LLMOps, MLOps, DevOps, and Platform Engineering from India, with 4+ years of professional experience in both onsite and remote environments. I'm passionate about building production-ready applications and scalable cloud infrastructure.
+I'm an AI & MLOps Engineer @Deloitte USI specializing in LLMOps, MLOps, DevOps, and Platform Engineering from India, with few years of professional experience in both onsite and remote environments. I'm passionate about building production-ready applications and scalable cloud infrastructure.
 
 - Currently working on cloud-native solutions, Artificial Intelligence solutions, and MLOps/Platform engineering
 - Always learning about emerging technologies and best practices
