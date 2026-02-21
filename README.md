@@ -13,7 +13,7 @@ I'm an AI & MLOps Engineer @Deloitte USI specializing in LLMOps, MLOps, DevOps, 
 - Always learning about emerging technologies and best practices
 - Looking to collaborate on open-source projects and DevOps initiatives
 - Ask me about Python, Cloud Architecture, MLOps, DevOps, Platform Engineering, Kubeflow, MLflow, SageMaker, FAISS, Podman, and Shell Scripting
-- ⚡ Fun fact: I love sharing knowledge & I am Football Enthusiast
+- ⚡ Fun fact: I love sharing knowledge & I am a Football Enthusiast
 
 ---
 
@@ -54,6 +54,6 @@ I'm an AI & MLOps Engineer @Deloitte USI specializing in LLMOps, MLOps, DevOps, 
 ---
 
 ## Connect With Me
-- 🌐 Website: [https://www.trainwithshubham.com](https://zohebj007.github.io)
-- ▶️ YouTube: [@TrainWithShubham](https://www.youtube.com/@itwaalebhailog)
-- 👔 LinkedIn: [Shubham Londhe](https://www.linkedin.com/in/mohammed-zoheb-jahagirdar)
+- 🌐 Website: [https://zohebj007.github.io](https://zohebj007.github.io)
+- ▶️ YouTube: [@itwaalebhailog](https://www.youtube.com/@itwaalebhailog)
+- 👔 LinkedIn: [mohammed-zoheb-jahagirdar](https://www.linkedin.com/in/mohammed-zoheb-jahagirdar)
