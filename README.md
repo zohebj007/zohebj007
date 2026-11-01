@@ -104,8 +104,7 @@ I'm an AI & MLOps Engineer @Deloitte USI specializing in LLMOps, MLOps, DevOps, 
 <div align="center">
   
 [![Website](https://img.shields.io/badge/Website-zohebj007.github.io-05122A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zohebj007.github.io)
-[![YouTube](https://img.shields.io/badge/YouTube-@itwaalebhailog-05122A?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itwaalebhailog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammed--zoheb--jahagirdar-05122A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-zoheb-jahagirdar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammed--zoheb--jahagirdar-05122A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-jahagirdar)
 [![Email](https://img.shields.io/badge/Email-jahagirdarzoheb%40gmail.com-05122A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahagirdarzoheb@gmail.com)
 
 </div>
